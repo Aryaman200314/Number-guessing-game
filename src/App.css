@@ -59,3 +59,9 @@ body {
     transform: scale(1.2);
     cursor: pointer;
 }
+p{
+  color: white;
+}
+p:hover{
+  color: #007bff;
+}
